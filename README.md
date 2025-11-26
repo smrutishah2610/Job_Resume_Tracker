@@ -186,7 +186,7 @@ This section highlights the key features of the Job Tracker App and guides you o
 *   **How to Utilize:** Navigate to the home page (`/`) to access the submission form. Fill in the required fields (marked with `*`) and select the appropriate application status. You can also upload your resume in PDF format.
 
     <!-- Screenshot: Job Submission Form -->
-    ![Job Submission Form Screenshot](Job_Tracker_App/home.png)
+    ![Job Submission Form Screenshot](images/home.png)
 
 #### 2. Viewing and Managing Job Applications
 
@@ -201,7 +201,7 @@ This section highlights the key features of the Job Tracker App and guides you o
     *   **Delete Multiple:** Select multiple jobs using the checkboxes and click "Delete Selected" to remove them in bulk.
 
     <!-- Screenshot: Job Applications List View -->
-    ![Job Applications List View Screenshot](path/to/your/list_view_screenshot.png)
+    ![Job Applications List View Screenshot](images/view_jobs.png)
 
 ---
 
