@@ -42,7 +42,7 @@ Now that you have the tools, let's get the app running!
         In the Terminal/Command Prompt, type the following command and press Enter:
 
         ```bash
-        git clone https://github.com/YOUR_USERNAME/job_tracker.git
+        git clone https://github.com/smrutishah2610/Job_Resume_Tracker.git
         ```
 
         *(Replace `YOUR_USERNAME` with the actual GitHub username if you have a fork, otherwise you can use the original repo's URL.)*
